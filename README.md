@@ -9,7 +9,7 @@ This project analyzes job postings and resumes to uncover:
 - 💰 Salary trends across roles
 - 🎯 Actionable insights for job seekers and recruiters
 
-The analysis was performed using **PostgreSQL** and visualized using **Tableau**.
+.
 
 ---
 
